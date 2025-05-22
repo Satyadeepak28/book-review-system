@@ -1,0 +1,22 @@
+book-review-api/
+├── controllers/
+│   ├── authController.js
+│   ├── bookController.js
+│   └── reviewController.js
+├── middleware/
+│   ├── auth.js
+│   └── errorHandler.js
+├── models/
+│   ├── User.js
+│   ├── Book.js
+│   └── Review.js
+├── routes/
+│   ├── authRoutes.js
+│   ├── bookRoutes.js
+│   └── reviewRoutes.js
+├── config/
+│   └── db.js
+├── .env
+├── app.js
+├── package.json
+└── README.md
